@@ -45,9 +45,9 @@ Or just do in the manual way:
 ## Kevin Bell Schedule
 
 schedule:
-  - cron: "30 6,14,22 * * 1,2,3,4,5,6,7" # See https://crontab.guru/#0_7,9,11_*_*_1,3
+  - cron: "30 6,14,22 * * *" # See https://crontab.guru/#0_7,9,11_*_*_1,3
   
- At :30 during 6am, 2pm, and 10pm 
+At :30 during 6am, 2pm, and 10pm
  
- “At minute 30 past hour 6, 14, and 22 on Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday.”
+“At minute 30 past hour 6, 14, and 22.”
   
