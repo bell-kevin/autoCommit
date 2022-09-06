@@ -45,9 +45,7 @@ Or just do in the manual way:
 ## Kevin Bell Schedule
 
 schedule:
-  - cron: "30 6,14,22 * * *" # See https://crontab.guru/#0_7,9,11_*_*_1,3
+  - cron: "0 0 * * *"
   
-At :30 during 6am, 2pm, and 10pm
- 
-“At minute 30 past hour 6, 14, and 22.”
+  Daily at midnight
   
