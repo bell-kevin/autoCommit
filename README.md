@@ -45,7 +45,7 @@ Or just do in the manual way:
 ## Kevin Bell Schedule
 
 schedule:
-  - cron: "0 0 * * *"
+  - cron: "0 9 * * *"
   
-  Daily at midnight
+  Daily at 9am
   
